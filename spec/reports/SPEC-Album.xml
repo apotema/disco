@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Album" tests="1" time="0.019148" failures="0" errors="0" skipped="0">
+  <testcase name="Album " time="0.018901">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

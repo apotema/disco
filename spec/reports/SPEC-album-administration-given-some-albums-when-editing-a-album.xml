@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="album administration given some albums when editing a album" tests="2" time="1.422557" failures="0" errors="0" skipped="0">
+  <testcase name="album administration given some albums when editing a album should save succesfully given a valid album" time="0.702128">
+  </testcase>
+  <testcase name="album administration given some albums when editing a album should show errors given an invalid album" time="0.719894">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

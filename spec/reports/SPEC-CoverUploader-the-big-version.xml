@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoverUploader the big version" tests="1" time="0.058828" failures="0" errors="0" skipped="0">
+  <testcase name="CoverUploader the big version should scale down a cover image to be no more than 200 by 200 pixels" time="0.058289">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

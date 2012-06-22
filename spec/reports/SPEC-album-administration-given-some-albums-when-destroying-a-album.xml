@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="album administration given some albums when destroying a album" tests="1" time="1.125543" failures="0" errors="0" skipped="0">
+  <testcase name="album administration given some albums when destroying a album should destroy the chosen album" time="1.125037">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

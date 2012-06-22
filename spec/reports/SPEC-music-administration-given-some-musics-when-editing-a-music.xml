@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="music administration given some musics when editing a music" tests="2" time="1.452769" failures="0" errors="0" skipped="0">
+  <testcase name="music administration given some musics when editing a music should save succesfully given a valid music" time="0.721293">
+  </testcase>
+  <testcase name="music administration given some musics when editing a music should show errors given an invalid music" time="0.730937">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

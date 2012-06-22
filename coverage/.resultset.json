@@ -1,0 +1,115 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alexandre/prj/disco/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/helpers/albums_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/helpers/musics_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/controllers/albums_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/models/album.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/uploaders/cover_uploader.rb": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        12,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/controllers/musics_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/alexandre/prj/disco/app/models/music.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1340397161
+  }
+}

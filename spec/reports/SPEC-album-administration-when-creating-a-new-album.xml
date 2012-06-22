@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="album administration when creating a new album" tests="2" time="4.719985" failures="0" errors="0" skipped="0">
+  <testcase name="album administration when creating a new album should save succesfully given a valid album" time="4.380836">
+  </testcase>
+  <testcase name="album administration when creating a new album should show errors given an invalid album" time="0.338608">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

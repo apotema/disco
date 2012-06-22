@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="music administration given some musics when destroying a music" tests="1" time="1.142118" failures="0" errors="0" skipped="0">
+  <testcase name="music administration given some musics when destroying a music should destroy the chosen music" time="1.141428">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
